@@ -1,4 +1,4 @@
-# 🚀 Loan Prediction Project
+# 🚀 Loan Prediction
 
 Welcome to the **Loan Prediction** repository! This project leverages data science and machine learning to predict the likelihood of loan approvals. Explore, learn, and contribute to this end-to-end, notebook-driven journey into the world of predictive analytics!
 
