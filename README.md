@@ -1,4 +1,4 @@
-# 🚀 Loan Prediction Project
+# 🚀 Loan Prediction
 
 Welcome to the **Loan Prediction** repository!
 
